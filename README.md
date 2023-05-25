@@ -1,2 +1,2 @@
 # Inventory Managment System for Retailers
- 
+ The System will ask retailers to create their accounts by providing essential details and they can update their inventory details, also users will be able to add new stock by submitting essential details related to the stock. They System will automatically send an email alert to the retailers if there is no stock found in their accounts. So that they can order new stock.
